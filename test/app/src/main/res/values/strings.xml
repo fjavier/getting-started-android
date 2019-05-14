@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Evaluador</string>
+    <string name="espaniol">ESPAÑOL</string>
+    <string name="matematica">MATEMATICAS</string>
+    <string name="ingles">INGLES</string>
+    <string name="label_evaluar">EVALUAR</string>
+    <string name="label_estado">ESTADO</string>
+</resources>
