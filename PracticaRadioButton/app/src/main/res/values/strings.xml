@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Practica RadioButton</string>
+    <string name="resultado">Resultado</string>
+    <string name="header">Calculadora Simple</string>
+    <string name="hint_primer_valor">PRIMER VALOR</string>
+    <string name="hint_segundo_valor">SEGUNDO VALOR</string>
+    <string name="operacion_suma">Sumar</string>
+    <string name="operacion_restar">Restar</string>
+    <string name="hint_operacion_multiplicar">Multiplicar</string>
+    <string name="operacion_dividir">Dividir</string>
+    <string name="btn_calcular">Calcular</string>
+</resources>
