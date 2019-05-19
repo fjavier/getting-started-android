@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">evaluador</string>
+    <string name="label_cabecera">Evaluador</string>
+    <string name="materia_espaniol">Español</string>
+    <string name="materia_matematicas">Matematicas</string>
+    <string name="materia_ingles">Ingles</string>
+    <string name="btn_evaluar">Evaluar</string>
+    <string name="label_estado">Estado</string>
+</resources>
